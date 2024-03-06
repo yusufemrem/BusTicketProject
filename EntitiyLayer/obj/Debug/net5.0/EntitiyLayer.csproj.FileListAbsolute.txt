@@ -1,0 +1,15 @@
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.deps.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.runtimeconfig.dev.json
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\bin\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.AssemblyReference.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfoInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.AssemblyInfo.cs
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\ref\EntitiyLayer.dll
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.pdb
+C:\Users\emrem\Desktop\SystemIOIslemleri\Udemy.SystemIO\BusTicketProject\EntitiyLayer\obj\Debug\net5.0\EntitiyLayer.genruntimeconfig.cache
